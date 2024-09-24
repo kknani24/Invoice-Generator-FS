@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/kknani24/Invoice-Generator-FS.git/static/css/main.5de9b7b4.chunk.css",
+    "main.js": "/kknani24/Invoice-Generator-FS.git/static/js/main.5b9d6147.chunk.js",
+    "main.js.map": "/kknani24/Invoice-Generator-FS.git/static/js/main.5b9d6147.chunk.js.map",
+    "runtime-main.js": "/kknani24/Invoice-Generator-FS.git/static/js/runtime-main.d0c8b8fd.js",
+    "runtime-main.js.map": "/kknani24/Invoice-Generator-FS.git/static/js/runtime-main.d0c8b8fd.js.map",
+    "static/css/2.88761f2b.chunk.css": "/kknani24/Invoice-Generator-FS.git/static/css/2.88761f2b.chunk.css",
+    "static/js/2.071d01a4.chunk.js": "/kknani24/Invoice-Generator-FS.git/static/js/2.071d01a4.chunk.js",
+    "static/js/2.071d01a4.chunk.js.map": "/kknani24/Invoice-Generator-FS.git/static/js/2.071d01a4.chunk.js.map",
+    "static/js/3.dfe5f5ac.chunk.js": "/kknani24/Invoice-Generator-FS.git/static/js/3.dfe5f5ac.chunk.js",
+    "static/js/3.dfe5f5ac.chunk.js.map": "/kknani24/Invoice-Generator-FS.git/static/js/3.dfe5f5ac.chunk.js.map",
+    "static/js/4.a5eaf551.chunk.js": "/kknani24/Invoice-Generator-FS.git/static/js/4.a5eaf551.chunk.js",
+    "static/js/4.a5eaf551.chunk.js.map": "/kknani24/Invoice-Generator-FS.git/static/js/4.a5eaf551.chunk.js.map",
+    "static/js/5.7c40653d.chunk.js": "/kknani24/Invoice-Generator-FS.git/static/js/5.7c40653d.chunk.js",
+    "static/js/5.7c40653d.chunk.js.map": "/kknani24/Invoice-Generator-FS.git/static/js/5.7c40653d.chunk.js.map",
+    "index.html": "/kknani24/Invoice-Generator-FS.git/index.html",
+    "static/css/2.88761f2b.chunk.css.map": "/kknani24/Invoice-Generator-FS.git/static/css/2.88761f2b.chunk.css.map",
+    "static/css/main.5de9b7b4.chunk.css.map": "/kknani24/Invoice-Generator-FS.git/static/css/main.5de9b7b4.chunk.css.map",
+    "static/js/2.071d01a4.chunk.js.LICENSE.txt": "/kknani24/Invoice-Generator-FS.git/static/js/2.071d01a4.chunk.js.LICENSE.txt",
+    "static/js/3.dfe5f5ac.chunk.js.LICENSE.txt": "/kknani24/Invoice-Generator-FS.git/static/js/3.dfe5f5ac.chunk.js.LICENSE.txt",
+    "static/js/4.a5eaf551.chunk.js.LICENSE.txt": "/kknani24/Invoice-Generator-FS.git/static/js/4.a5eaf551.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0c8b8fd.js",
+    "static/css/2.88761f2b.chunk.css",
+    "static/js/2.071d01a4.chunk.js",
+    "static/css/main.5de9b7b4.chunk.css",
+    "static/js/main.5b9d6147.chunk.js"
+  ]
+}
